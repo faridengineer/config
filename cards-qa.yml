@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Teamwebsoft Bank cards related QA APIs "
+  contactDetails:
+    name: "Yeasha - QA Lead"
+    email: "yeash@example.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371
