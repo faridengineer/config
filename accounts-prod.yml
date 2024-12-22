@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Teamwebsoft Bank accounts related prod APIs "
   contactDetails:
     name: "Farid - Product Owner"
-    email: "8421202ceedcdec75947c7207b508be304afafdb00ece281d6987b9865c946cec3facbe923294b567c515e9cf466647a"
+    email: "{cipher}8421202ceedcdec75947c7207b508be304afafdb00ece281d6987b9865c946cec3facbe923294b567c515e9cf466647a"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
