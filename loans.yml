@@ -1,6 +1,6 @@
 build:
   version: "3.0"
-accounts:
+loans:
   message: "Welcome to Teamwebsoft Bank loans related QA APIs "
   contactDetails:
     name: "John Doe - QA Lead"
