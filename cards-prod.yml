@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to Teamwebsoft Bank cards related production APIs "
   contactDetails:
     name: "Farid - Product Owner"
